@@ -8,7 +8,7 @@
   margin: 0 auto;
   width: 60%;
   height: 100vh;
-  border: dashed red;
+
 }
 table, th, td {
   border: 1px solid black;
@@ -25,12 +25,12 @@ tr{
 .open-button {
   position: fixed;
   width: 10%;
-  top: 20px;
-  right: 50px;
+  /* top: 20px;
+  right: 50px; */
   padding: 10px;
   text-transform: uppercase;
   background: azure;
-  transition: 0.4s;
+
   cursor: pointer;
 }
 
